@@ -22,8 +22,8 @@ tags:
 
 ### 联系方式
 <font color=black>
-> 手机：18756170757   
-> 邮箱：cxyhq@foxmail.com
+- 手机：18756170757   
+- 邮箱：cxyhq@foxmail.com
 </font>
 
 ## 工作经历
