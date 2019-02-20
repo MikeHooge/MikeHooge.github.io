@@ -1,4 +1,15 @@
 ---
+layout:     post
+title:      个人简历
+subtitle:   简历
+date:       2019-02-20
+author:     huqi
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - 简历
+---
+
 ## 基本信息
 
 ### 个人简介
@@ -15,7 +26,6 @@
 > 邮箱：cxyhq@foxmail.com
 </font>
 
----
 ## 工作经历
 2016/04 - 2016/12  
 北京慧博云通科技股份有限公司，担任java开发工程师，外派驻场开发;
